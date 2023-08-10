@@ -13,5 +13,6 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Rahmadhania, [Linkedin](https://www.linkedin.com/in/rahmadhania-ridwan-aa8a5621a/)
 
 
